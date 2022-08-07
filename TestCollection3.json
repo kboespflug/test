@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://detektiiif.manducus.net/invalide",
+    "@type": "sc:Collection",
+    "label": "detektIIIF2 Collection",
+    "manifests": [
+        {
+            "@id": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/manifest",
+            "@type": "sc:Manifest",
+            "label": "Plan of Shakespeare's birth-place",
+            "thumbnail": "https://ark.digitalcommonwealth.org/ark:/50959/0r96fn89v/thumbnail",
+                     "@id": "https://iiif.unige.ch/manifest/IIIFManifest_1072056515.json",
+                    "@type": "sc:Manifest",
+                    "label": "1072056515",
+                    "thumbnail": "https://iiif.unige.ch/iiif/2/1072056515_002/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b12027546",
+            "@type": "sc:Manifest",
+            "label": "William Shakespeare. Oil painting, 18--.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b12027546_0001.jp2/full/84,100/0/default.jpg"
+        },
+        {
+            "@id": "https://iiif.wellcomecollection.org/presentation/v2/b15760777",
+            "@type": "sc:Manifest",
+            "label": "Macbeth, Shakespeare: the three witches. Mezzotint by J.R. Smith, 1785, after H. Fuseli, 1783.",
+            "thumbnail": "https://iiif.wellcomecollection.org/thumbs/b15760777_V0044814-LH-LH.jp2/full/100,79/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/92ae7c48-992b-4a4b-8e6c-22a522ce5be2",
+            "@type": "sc:Manifest",
+            "label": "Mary Arden's Cottage",
+            "thumbnail": "https://media.getty.edu/iiif/image/490ee629-1378-49df-8bf2-bbf4d3b2dfa6/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://media.getty.edu/iiif/manifest/b7830f5f-1ba0-4173-9491-f197bd1edb63",
+            "@type": "sc:Manifest",
+            "label": "Shakespeare and Stratford-Upon-Avon, A \"Chronicle of the Time:\"...Together with Full Record of Tercentenary Celebration.",
+            "thumbnail": "https://media.getty.edu/iiif/image/d6e82352-2953-4391-8f67-11ffe2ed9e69/full/!600,600/0/default.jpg"
+        },
+        {
+            "@id": "https://server.collections.folger.edu/iiif/manifest/from-dap-id/d7b782e9-9df4-44c0-ad1b-1a08b79e21d7.json",
+            "@type": "sc:Manifest",
+            "label": "Marcius-Simons, Pinckney. [Illustrations to A midsummer night's dream]",
+            "thumbnail": "https://iiif.collections.folger.edu/iiif/2/4c343da8-8bc7-42f2-9704-e925d7fb7d35.TIFF/full/,100/0/default.jpg"
+        },
+        {
+            "@id": "https://www.davidrumsey.com/luna/servlet/iiif/m/RUMSEY~8~1~307126~90077063/manifest",
+            "@type": "sc:Manifest",
+            "label": "Text: William Shakespeare ...",
+            "thumbnail": "https://www.davidrumsey.com/luna/servlet/iiif/RUMSEY~8~1~307126~90077063/full/!96,96/0/default.jpg"
+        },
+        {
+            "@id": "https://www.dl.ndl.go.jp/api/iiif/1232375/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Uraguchi's Shakespeare Pamphlets. 第1",
+            "thumbnail": "https://www.dl.ndl.go.jp/api/iiif/1232375/F0000001/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://www.e-rara.ch/i3f/v20/20144384/manifest",
+            "@type": "sc:Manifest",
+            "label": "Vorlesungen über Shakespeare's Macbeth",
+            "thumbnail": "https://www.e-rara.ch/zuz/i3f/v21/20144390/full/304/0/default.jpg"
+        }
+    ]
+}
